@@ -1,2 +1,0 @@
-Ini adalah file pertama
-Mengubah isi file_pertama.txt
