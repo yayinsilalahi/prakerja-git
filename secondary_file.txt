@@ -1,2 +1,0 @@
-Ini adalah file ketiga
-Mengubah isi file_ketiga.txt
